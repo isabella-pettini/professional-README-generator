@@ -45,6 +45,7 @@ const userQuestions = () => {
             "MIT",
             "Mozilla Public 2.0",
             "The Unlicense",
+            "None",
         ]
     },
     // Contributing
