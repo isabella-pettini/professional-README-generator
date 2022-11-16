@@ -20,7 +20,10 @@
   Why not save time and effort and use a streamlined README generator to easily add a professional look to any GitHub repo? Once you have ran the application using node, answer the prompts for your project’s title, description, installation, usage, license, contributing, and tests. Then simply answer the prompts for your GitHub username and email address, the application will let you know if creating your README was successful and you can open the README.md file to make sure everything is how you want it.
   <br>
   Below is a gif of how to use this application.<br>
-  ![Alt text](./assets/readmegen-gif.gif)
+
+  ![Alt text](./assets/readmegen-gif.gif) <br>
+
+  [Link To Demo Video](https://drive.google.com/file/d/1bnmYEJ-lj2wQUpVXZefcY9-lbUr4AeV2/view)
 
   ## License
 This project is covered under the MIT license. Please refer to this link to read the license, permissions, conditions and limitations.
